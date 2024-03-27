@@ -1,4 +1,4 @@
 @echo off
-TITLE Kigyō bot
-:: Enables virtual env mode and then starts kigyo
+TITLE Shizukā bot
+:: Enables virtual env mode and then starts Shizuka
 env\scripts\activate.bat && py -m tg_bot
